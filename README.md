@@ -1,10 +1,13 @@
-<p align="center" width="300">
-   <h3 align="center">¡Hey 👋! Soy Camilo </h3>
+<p align="center">
+    <img align="center" src="https://i.giphy.com/media/9uITwFum2zFg9fBHYU/giphy.gif">
 </p>
-
+<p align="center" width="300">
+   <h2 align="center">¡Hey 👋! I'm Camilo </h2>
+   <h4>A passionate web developer from Colombia</h4>
+</p>
 <p align="center">
     <a href="https://www.instagram.com/aka.milow/" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="28px" width="28px" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="corricodes" height="30" width="40">
     </a> 
 </p>
 
