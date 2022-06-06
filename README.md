@@ -3,7 +3,7 @@
 </p>
 <p align="center" width="300">
    <h2 align="center">¡Hey 👋! I'm Camilo </h2>
-   <h4>A passionate web developer from Colombia</h4>
+   <h3 align="center">A passionate web developer from Colombia</h3>
 </p>
 <p align="center">
     <a href="https://www.instagram.com/aka.milow/" target="blank">
