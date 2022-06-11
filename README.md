@@ -1,10 +1,15 @@
 <p align="center">
-    <img align="center" src="https://i.giphy.com/media/9uITwFum2zFg9fBHYU/giphy.gif">
+    <img align="center" src="https://c.tenor.com/KfJz99sNyBgAAAAC/mf-doom-mf.gif" width="300" height="300">
 </p>
-<p align="center" width="300">
+<p align="center">
    <h2 align="center">¡Hey 👋! I'm Camilo </h2>
-   <h3 align="center">A passionate web developer from Colombia</h3>
+   <h3 align="center">Web Developer</h3>
 </p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akamilow&layout=compact&theme=dark&hide_border=true)
+
+![akamilow's github stats](https://github-readme-stats.vercel.app/api?username=akamilow&show_icons=true&hide_border=true&theme=dark)
+
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://camilocastellar.me/)
