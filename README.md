@@ -1,5 +1,5 @@
 <p align="center">
-    <img align="center" src="https://c.tenor.com/KfJz99sNyBgAAAAC/mf-doom-mf.gif" width="250" height="250">
+    <img align="center" src="img/mf-doom-gif.gif" width="250" height="250">
 </p>
 <p align="center">
    <h3 align="center">Software Developer</h3>
