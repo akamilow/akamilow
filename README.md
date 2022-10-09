@@ -2,7 +2,7 @@
     <img align="center" src="img/mf-doom-gif.gif" width="250" height="250">
 </p>
 
-## 🔗 Links
+## 🔗 Links:
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://camilocastellar.me/)
 
 ## 🌐 Socials:
