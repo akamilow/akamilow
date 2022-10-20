@@ -1,5 +1,5 @@
 <p align="center">
-    <img align="center" src="img/mf-doom-gif.gif" width="250" height="250">
+    <img align="center" src="img/mf-doom-gif.gif" width="255" height="255">
 </p>
 
 ## 🔗 Links:
