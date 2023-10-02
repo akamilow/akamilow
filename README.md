@@ -4,7 +4,6 @@
 
 ## 🔗 Links:
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://akamilow.github.io/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/aka.milow/) 
 
 
 # 📊 GitHub Stats:
